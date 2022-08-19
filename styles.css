@@ -1,0 +1,60 @@
+body{
+  background-color: #333333;
+  text-align: center;
+}
+
+h1{
+  color: #00b38f;
+  font-size: 5rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+.player-paragraph{
+  color: #00b38f;
+  display: inline-block;
+  font-family: 'Caveat', cursive;
+  font-size: 1.5rem;
+  margin:1.3rem 5rem;
+}
+
+.player-img{
+  height: 10rem;
+  margin: auto 2rem;
+  width: 10rem;
+
+}
+
+.signature{
+  color: #d9d9d9;
+  font-family: 'Caveat', cursive;
+  margin-top: 5rem;
+}
+
+.btn {
+  font-family: 'Caveat', cursive;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  padding: 0.5rem 1rem;
+
+  background: #34d984;
+  background-image: -webkit-linear-gradient(top, #34d984, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d984, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d984, #2980b9);
+  background-image: -o-linear-gradient(top, #34d984, #2980b9);
+  background-image: linear-gradient(to bottom, #34d984, #2980b9);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  color: #333333;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3fb85b;
+  background-image: -webkit-linear-gradient(top, #3fb85b, #2980b9);
+  background-image: -moz-linear-gradient(top, #3fb85b, #2980b9);
+  background-image: -ms-linear-gradient(top, #3fb85b, #2980b9);
+  background-image: -o-linear-gradient(top, #3fb85b, #2980b9);
+  background-image: linear-gradient(to bottom, #3fb85b, #2980b9);
+  text-decoration: none;
+}
